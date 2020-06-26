@@ -4,11 +4,11 @@
  ## <p align="center">Materiais de Estudo (Compilado por Hugo Pfeffer)</p>
  
 <p align="center">
-    <img alt="Repository Size" src="https://img.shields.io/github/repo-size/HugoPfeffer/Curso-Java">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/HugoPfeffer/Curso-Java">
+    <img alt="Repository Size" src="https://img.shields.io/github/repo-size/HugoPfeffer/mooc-java-programming">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/HugoPfeffer/mooc-java-programming">
     <img alt="Made By" src="https://img.shields.io/badge/Made%20By-Hugo%20Pfeffer-red">
-    <img alt="License" src="https://img.shields.io/github/license/HugoPfeffer/Curso-Java">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/HugoPfeffer/Curso-Java?style=social">
+    <img alt="License" src="https://img.shields.io/github/license/HugoPfeffer/mooc-java-programming">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/HugoPfeffer/mooc-java-programming?style=social">
 </p>
 </br>
 
